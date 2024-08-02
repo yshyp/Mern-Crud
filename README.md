@@ -29,6 +29,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Node
 2.Install dependencies:
 
   npm install
+  
 3.Ensure MongoDB is running on your local machine or use a MongoDB Atlas connection string in config/db.js.
 
  Configuration
